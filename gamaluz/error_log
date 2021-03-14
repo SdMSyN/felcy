@@ -1,0 +1,1 @@
+[19-Mar-2019 20:12:44 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/felcy/public_html/ventas/config/conexion.php on line 9
